@@ -1,0 +1,98 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Polymorphism",
+            "request": "launch",
+            "mainClass": "Polymorphism",
+            "projectName": "Test_e35fea92"
+        },
+        {
+            "type": "java",
+            "name": "Ccapsule",
+            "request": "launch",
+            "mainClass": "Ccapsule",
+            "projectName": "Test_e35fea92"
+        },
+        {
+            "type": "java",
+            "name": "AbstractTest",
+            "request": "launch",
+            "mainClass": "AbstractTest",
+            "projectName": "Test_e35fea92"
+        },
+        {
+            "type": "java",
+            "name": "objectType",
+            "request": "launch",
+            "mainClass": "objectType",
+            "projectName": "Test_e35fea92"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "Test_e35fea92"
+        },
+        {
+            "type": "java",
+            "name": "Scope",
+            "request": "launch",
+            "mainClass": "Scope",
+            "projectName": "Test_e35fea92"
+        },
+        {
+            "type": "java",
+            "name": "MethodTest",
+            "request": "launch",
+            "mainClass": "MethodTest",
+            "projectName": "Test_e35fea92"
+        },
+        {
+            "type": "java",
+            "name": "StringTest",
+            "request": "launch",
+            "mainClass": "StringTest",
+            "projectName": "Test_e35fea92"
+        },
+        {
+            "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "String",
+            "projectName": "Test_e35fea92"
+        },
+        {
+            "type": "java",
+            "name": "DataTypes",
+            "request": "launch",
+            "mainClass": "DataTypes",
+            "projectName": "Test_e35fea92"
+        },
+        {
+            "type": "java",
+            "name": "Variable",
+            "request": "launch",
+            "mainClass": "Variable",
+            "projectName": "Test_e35fea92"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Println",
+            "request": "launch",
+            "mainClass": "Println",
+            "projectName": "Test_e35fea92"
+        }
+    ]
+}
